@@ -19,11 +19,11 @@ function Print-Banner {
 
 function Show-Menu {
     Print-Banner
-    Write-Host "===== WindowsNinja ====="
+    Write-Host "======= WindowsNinja ========"
     Write-Host "1. General System Information"
     Write-Host "2. Hardware Information"
     Write-Host "3. Exit"
-    Write-Host "============================"
+    Write-Host "============================="
 }
 
 function Get-GeneralSystemInfo {

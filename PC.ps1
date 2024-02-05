@@ -1,6 +1,6 @@
 #  PC
 #  by ImKKingshuk
-#  Git-  https://github.com/ImKKingshuk/WindowsNinja.git
+#  Git- https://github.com/ImKKingshuk/WindowsNinja.git
 #  Copyright © 2024 , @ImKKingshuk | All Rights Reserved.
 #  GNU General Public License v3.0 or later
 
